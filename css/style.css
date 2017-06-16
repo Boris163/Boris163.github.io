@@ -1,0 +1,31 @@
+*{
+	font-family: "Pangolin"; 
+}
+
+body {
+    background-color: #b3f0ff;
+    font-size: 18px;
+
+}
+
+main {
+	text-align: center;
+}
+
+#Pelle {
+    border-style: dashed;
+}
+
+p {
+	font-size: 22pt;
+}
+
+#left {
+	float: left;
+	width: 65%;
+	overflow: hidden;
+}
+
+#right {
+	overflow: hidden;
+}
